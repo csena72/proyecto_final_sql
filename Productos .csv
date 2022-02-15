@@ -1,0 +1,21 @@
+id,sku,nombre,precio,descripcion,imagen,categoriaId,stock
+1,URB06W-IN,Jugo Naranja ,150.00,null,null,5,285
+2,URC06W-AN,Vodka ,700.00,null,null,5,85
+3,BRB05W-LN,Coca cola 1L,120.00,null,null,5,14
+4,URB07W-IN,Coca cola lata,80.00,null,null,5,33
+5,HJB0R6W-IN,Leche 1L,110.00,null,null,7,26
+6,URR06W-FG,Peras 1kg,300.00,null,null,7,1250
+7,URB06W-LA,Manteca 200gs,230.00,null,null,7,22
+8,URSS6W-TR,Mermelada ,350.00,null,null,7,33
+9,AAB06W-IN,Arroz 1kg,230.00,null,null,7,11
+10,URBSSW-SS,Pollo kg,300.00,null,null,7,44
+11,USS06W-IN,Sal 1kg,80.00,null,null,7,66
+12,HDG06W-LO,Vinagre,60.00,null,null,7,88
+13,URKK6W-IN,Tv 32,33000.00,null,null,8,29
+14,URSSSW-SL,Plancha,6000.00,null,null,8,156
+15,SSB06W-IS,Heladera,80000.00,null,null,8,3555
+16,MMK6W-GG,Cafetera,15000.00,null,null,8,888
+17,URSSTT-FD,Remera,3000.00,null,null,16,525
+18,URRTBG-HG,Pantalon,7000.00,null,null,16,444
+19,JHS06W-IN,Silla,8570.00,null,null,14,33
+20,SSSE6W-WE,Mesa,20520.00,null,null,14,562

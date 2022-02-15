@@ -1,0 +1,21 @@
+id,nombre,descripcion,imagen
+1,Arte y entretenimiento,Articulos de arte y entretenimiento,arte.png
+2,Articulos deportivos,Articulos deportivos,deportivos.png
+3,Articulos para Bebe,Articulos para Bebe,a_bebe.png
+4,Articulos para mascotas,Articulos para mascotas,a_mascotas.png
+5,Bebidas,Bebidas,bebidas.png
+6,Camaras y Optica,Camaras y Optica,optica.png
+7,Comida,Comida,food.png
+8,Electronica,Electronica,electro.png
+9,Equipaje y bolsos,Equipaje y bolsos,bolsos.png
+10,Hardware,Hardware,hardware.png
+11,Hogar & Jardin,Hogar & Jardín,hogar.png
+12,Juguetes y Juegos,Juguetes y Juegos,juegos.png
+13,Material de oficina,Articulos de oficina,oficina.png
+14,Muebles,Muebles y Articulos de decoracion,muebles.png
+15,Negocio e industria,Articulos para negocios e industria,industria.png
+16,Ropa y accesorios,Ropa y accesorios,ropa.png
+17,Salud y Belleza,Salud y Belleza,salud.png
+18,Software,Software,software.png
+19,Tabaco,Tabaco,tabaco.png
+20,Vehiculos y Partes,Vehiculos y Partes,vehiculos.png

@@ -1,0 +1,21 @@
+id,email,password,nombre,fecha_nacimiento,direccion,ciudad,pais,telefono
+1,jperez@example.com,12345,Juan Perez,null,null,CABA,ARGENTINA,null
+2,jlopez@example.com,12345,Julio Lopez,null,null,BS. AS.,ARGENTINA,null
+3,aledezma@example.com,12345,Adrian Ledezma,null,null,BS. AS.,ARGENTINA,null
+4,spacol@example.com,12345,Sandra Pacol,null,null,BS. AS.,ARGENTINA,null
+5,jcruz@example.com,12345,Juan Cruz,null,null,CABA,ARGENTINA,null
+6,ntemppa@example.com,12345,Nestor temppa,null,null,CABA,ARGENTINA,null
+7,acardozo@example.com,12345,Ariel Cardozo,null,null,CABA,ARGENTINA,null
+8,sloean@example.com,12345,Sandro Loean,null,null,CABA,ARGENTINA,null
+9,cmonti@example.com,12345,Carlos Monti,null,null,CABA,ARGENTINA,null
+10,ppascul@example.com,12345,Pedro Pascul,null,null,BS. AS.,ARGENTINA,null
+11,aserra@example.com,12345,Andres Serra,null,null,BS. AS.,ARGENTINA,null
+12,mlesa@example.com,12345,Macarena Lesa,null,null,CORDOBA,ARGENTINA,null
+13,flenco@example.com,12345,Franco Lenco,null,null,CABA,ARGENTINA,null
+14,msanchez<@example.com,12345,Marta Sanchez,null,null,SALTA,ARGENTINA,null
+15,lantoele@example.com,12345,Luis Antoele,null,null,ENTRE RIOS,ARGENTINA,null
+16,mdipalto@example.com,12345,Marcos Dipalto,null,null,CABA,ARGENTINA,null
+17,jcrulen@example.com,12345,Jesus Crulen,null,null,CABA,ARGENTINA,null
+18,fantares@example.com,12345,Federico Antares,null,null,CABA,ARGENTINA,null
+19,mcartuzi@example.com,12345,Melina Cartuzi,null,null,CABA,ARGENTINA,null
+20,plento@example.com,12345,Pablo Lento,null,null,BS. AS.,ARGENTINA,null
