@@ -1,4 +1,6 @@
-CREATE SCHEMA `ecommerce2` ;
+CREATE SCHEMA `ecommerce`;
+
+USE `ecommerce`;
 
 -- Tabla Categorias
 DROP TABLE IF EXISTS Categorias;
@@ -30,13 +32,13 @@ CREATE TABLE Clientes (
 DROP TABLE IF EXISTS Ordenes;
 CREATE TABLE Ordenes (
   id int unsigned NOT NULL AUTO_INCREMENT,
-  clienteId varchar(45) DEFAULT NULL,
+  clienteId int unsigned NOT NULL,
   total decimal(10,2) DEFAULT NULL,
   direccion_envio varchar(45) DEFAULT NULL,
   fecha timestamp DEFAULT NULL,
   estado varchar(45) DEFAULT NULL,
   PRIMARY KEY (id),
-  CONSTRAINT clienteId FOREIGN KEY (id) REFERENCES Clientes (id)
+  CONSTRAINT clienteId FOREIGN KEY (clienteId) REFERENCES Clientes (id)
 );
 
 -- Tabla Productos
@@ -58,10 +60,10 @@ CREATE TABLE Productos (
 DROP TABLE IF EXISTS Orden_detalles;
 CREATE TABLE Orden_detalles (
   id int unsigned NOT NULL AUTO_INCREMENT,
-  ordenId int NOT NULL,
-  productoId int NOT NULL,
+  ordenId int unsigned NOT NULL,
+  productoId int unsigned NOT NULL,
   cantidad int NOT NULL,
   PRIMARY KEY (id),
-  CONSTRAINT ordenId FOREIGN KEY (id) REFERENCES Ordenes (id),
-  CONSTRAINT productoId FOREIGN KEY (id) REFERENCES Productos (id)
+  CONSTRAINT ordenId FOREIGN KEY (ordenId) REFERENCES Ordenes (id),
+  CONSTRAINT productoId FOREIGN KEY (productoId) REFERENCES Productos (id)
 );
